@@ -9,6 +9,7 @@ NOTE: Unfortunately, the method of gathering datasets no longer works as of 4/11
 
 
 In order to run:
+
 0. Go to reddit.com, make an account, and see this page to make yourself a personal use script oauth token: https://www.reddit.com/prefs/apps . Then set client_id and client_secret in botCredentials.py so you can access Reddit's API.
 1. See the config.py file in this folder in order to set your data and model locations folders.
 2. Each subfolder contains a separate, runnable set of files that are capable of gathering the dataset, training a model on either the reddit dataset or the comparison dataset (CIFAR10 and Kaggle DVC, both are expected to be provided by the user), and predicting on the test set for evaluation.
