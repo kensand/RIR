@@ -18,4 +18,4 @@ In order to run:
 5. Run the training for the Reddit model and the comparison model. Make sure they are able to find your dataset and model folders. You may have to manually delete the created model folder if you wish to restart or there is an error.
 6. Run the predict.py file to predict whichever model with whichever evaluation dataset. In order to change the model and dataset, edit the predict file.
 
-This model can be extended easily by copying an existing model and customizing it to your liking. See subredditcategories.py for n idea on how to structure your input to the gatherDatatset function.
+This model can be extended easily by copying an existing model and customizing it to your liking. See subredditcategories.py for an idea on how to structure your input to the gatherDatatset function.
