@@ -1,6 +1,8 @@
 # RIR
 Reddit Image Recognizer (RIR) in python
 
+Please note the Project paper is named Paper.pdf, and the Survey paper is named Survey.pdf in the top level directory of this repo.
+
 This was an experiment for my Computer Vision class project.
 
 Requires python 3.X, Tensorflow, tflearn, numpy, and PRAW.
