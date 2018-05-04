@@ -1,7 +1,7 @@
 # RIR
 Reddit Image Recognizer (RIR) in python
 
-Please note the Project paper is named Paper.pdf, and the Survey paper is named Survey.pdf in the top level directory of this repo.
+Please note the Presentation is named presentation.pptx, the Project paper is named Paper.pdf, and the Survey paper is named Survey.pdf. They are all in the top level directory of this repo.
 
 This was an experiment for my Computer Vision class project.
 
