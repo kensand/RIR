@@ -5,7 +5,7 @@ This was an experiment for my Computer Vision class project.
 
 Requires python 3.X, Tensorflow, tflearn, numpy, and PRAW.
 
-NOTE: Unfortunately, the method of gathering datasets no longer works as of 4/11/18 because Reddit is mean and changed their API... Now gathering data in the same fashion is not possible (bassically searching by date is no longer possible from the Reddit API). There are other methods available using other APIS to access Reddit, but I do not have time (nor a need) to do so as I had gathered all my data before this change.
+NOTE: Unfortunately, the method of gathering datasets no longer works as of 4/11/18 because Reddit is mean and changed their API... Now gathering data in the same fashion is not possible (searching by date is no longer possible from the Reddit API). There are other methods available using other APIS to access Reddit, but I do not have time (nor a need) to do so as I had gathered all my data before this change.
 
 
 In order to run:
